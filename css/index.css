@@ -1,0 +1,113 @@
+.anchor a:hover { 
+    color: orange ; 
+}
+.anchor a{
+    color: black;
+}
+.logo{
+    max-width: 40px;
+}
+.borderBottom{
+    border-bottom: 1px solid rgb(238, 238, 238);
+}
+.col01{
+    background: #01011d;
+    border: #0b0b0b 5px solid;
+    border-radius: 6px;
+
+}
+.text01{
+    font-weight:900;
+    font-size:50px;
+    color: black;
+}
+.new{
+    color: orange;
+    font-weight: 500;
+}
+.hydrgn{
+    color: white;
+    font-weight: bold;
+}
+p.p-color:hover{
+    color: orange ; 
+}
+
+.downside{
+    font-weight: bold;
+    color: white;
+}
+.vc{
+    font-weight: bold; 
+    color: white;
+}
+.img02{
+    max-width: 100%;
+    /* width: 11em; */
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.one{
+    color: #838181;
+    font-weight: 600;
+}
+.retro{
+    font-weight: bold;
+}
+.retro1{
+    color:#838181;
+}
+.img03{
+    max-width: 100%;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.two{
+        color: #838181; 
+        font-weight: 600;
+}
+.topten{
+    font-weight: bold;
+}
+.topten1{
+    color: #838181;;
+}
+.img04{
+
+    max-width: 100%;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+.three{
+    color: #838181; 
+    font-weight: 600;
+}
+.gaming{
+    font-weight: bold;
+}
+.gaming1{
+    color: #838181;;
+}
+/* .col011{
+    border: #c1bbbb;
+    border-left: 0px;
+    border-top: 0px;
+    border-style: solid;
+    border-radius: 7px;
+}
+.col012{
+    border: #c2bfbf;
+    border-left: 0px;
+    border-top: 0px;
+    border-style: solid;
+    border-radius: 7px;
+}
+.col013{
+    border: #c8c5c5;
+    border-left: 0px;
+    border-top: 0px;
+    border-style: solid;
+    border-radius: 7px;
+} */
+
