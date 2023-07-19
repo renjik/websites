@@ -1,0 +1,36 @@
+.header{
+    background-image: url("/image/image-header.jpg");
+    background-size: cover;
+    padding-bottom: 100vh;
+    background-position: bottom;
+}
+.head{
+    color: white;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 18px;
+    
+}
+.navbar-brand{
+    font-family: 'Barlow', sans-serif;
+}
+.anchor{
+    color: white
+}
+.arrow{
+    margin-top: 40px;
+    width: 20px;
+}
+.pillbutton{
+    background-color:white;
+  border: none;
+  color: black;
+  padding: px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 18px;
+}
