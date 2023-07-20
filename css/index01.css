@@ -1,8 +1,9 @@
 .header{
     background-image: url("/image/image-header.jpg");
     background-size: cover;
-    padding-bottom: 100vh;
-    background-position: bottom;
+    background-position: center;
+    height: 100vh;
+    
 }
 .head{
     color: white;
@@ -15,16 +16,13 @@
 .navbar-brand{
     font-family: 'Barlow', sans-serif;
 }
-.anchor{
-    color: white
-}
+
 .arrow{
     margin-top: 40px;
     width: 20px;
 }
 .pillbutton{
     background-color:white;
-  border: none;
   color: black;
   padding: px 30px;
   text-align: center;
@@ -33,4 +31,65 @@
   margin: 0px 0px;
   cursor: pointer;
   border-radius: 18px;
+}
+.contact{
+    font-family: 'Fraunces', sans-seri;
+}
+.tag{
+    font-family:'Barlow', sans-serif; 
+}
+.col01{
+    padding-top: 300px;
+}
+.egg{
+    background-image: url("/image/image-transform.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 80vh;
+}
+.head2{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+}
+.col03{
+    background-image: url("/image/image-stand-out.jpg");
+    background-position: left;
+    background-size: cover;
+    min-height: 80vh;
+    width: 100%;
+
+}
+.head3{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+}
+.cherry{
+    background-image: url("/image/image-graphic-design.jpg");
+    background-position: right;
+    background-size: cover;
+    min-height: 80vh;
+    width: 100%;
+}
+.orange{
+    background-image: url("/image/image-photography.jpg");
+    background-position: right;
+    background-size: cover;
+    min-height: 80vh;
+    width: 100%;
+}
+.head4{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    color: rgb(42, 87, 42); 
+}
+.txt1{
+    color: rgb(42, 87, 42); 
+}
+.head5{
+    font-family: 'Fraunces', serif;
+    font-weight: 900; 
+    color: rgb(42, 87, 42); 
+}
+.txt2{
+    color: rgb(42, 87, 42); 
 }
