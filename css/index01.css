@@ -35,25 +35,24 @@
 .contact{
     font-family: 'Fraunces', sans-seri;
 }
-.tag{
-    font-family:'Barlow', sans-serif; 
-}
-.col01{
+/* .col01{
     padding-top: 300px;
-}
+} */
 .egg{
     background-image: url("/image/image-transform.jpg");
     background-position: center;
     background-size: cover;
     min-height: 80vh;
+   
 }
 .head2{
+    padding-top: 100px;
     font-family: 'Fraunces', serif;
     font-weight: 900;
 }
-.col03{
+.stand{
     background-image: url("/image/image-stand-out.jpg");
-    background-position: left;
+    background-position: center;
     background-size: cover;
     min-height: 80vh;
     width: 100%;
@@ -62,17 +61,19 @@
 .head3{
     font-family: 'Fraunces', serif;
     font-weight: 900;
+    color: rgb(42, 87, 42); 
+    padding-top: 400px;
 }
 .cherry{
     background-image: url("/image/image-graphic-design.jpg");
-    background-position: right;
+    background-position: center;
     background-size: cover;
     min-height: 80vh;
     width: 100%;
 }
 .orange{
     background-image: url("/image/image-photography.jpg");
-    background-position: right;
+    background-position: center;
     background-size: cover;
     min-height: 80vh;
     width: 100%;
@@ -89,7 +90,51 @@
     font-family: 'Fraunces', serif;
     font-weight: 900; 
     color: rgb(42, 87, 42); 
+    padding-top: 400px;
 }
 .txt2{
     color: rgb(42, 87, 42); 
+} 
+.testimonials{
+    font-family:'Barlow', sans-serif;
+    text-align: center;
+    padding-top: 150px;
+    color: gray;
+    letter-spacing: 3px;
+}
+.emily{
+    height: 80px;
+    border-radius: 50%;
+}
+.thommas{
+    height: 80px;
+    border-radius: 50%;
+}
+.jenny{
+    height: 80px;
+    border-radius: 50%;
+}
+.bottle{
+    background-image: url("/image/image-gallery-milkbottles.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 80vh;
+}
+.lemon{
+    background-image: url("/image/image-gallery-orange.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 80vh;
+}
+.corn{
+    background-image: url("/image/image-gallery-cone.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 80vh;
+}
+.icebox{
+    background-image: url("/image/image-gallery-sugarcubes.jpg");
+    background-position: center;
+    background-size: cover;
+    min-height: 80vh;
 }
