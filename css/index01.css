@@ -83,8 +83,13 @@
     font-weight: 900;
     color: rgb(42, 87, 42); 
 }
+.txt{
+    color: rgb(84, 82, 82); 
+    font-family: 'Barlow', sans-serif;
+}
 .txt1{
     color: rgb(42, 87, 42); 
+    font-family: 'Barlow', sans-serif;
 }
 .head5{
     font-family: 'Fraunces', serif;
@@ -93,14 +98,18 @@
     padding-top: 400px;
 }
 .txt2{
-    color: rgb(42, 87, 42); 
-} 
+    color: rgb(84, 82, 82); 
+    font-family: 'Barlow', sans-serif;
+}
+ 
 .testimonials{
-    font-family:'Barlow', sans-serif;
+    font-family: 'Fraunces', serif;
     text-align: center;
     padding-top: 150px;
+    padding-bottom: 40px;
     color: gray;
     letter-spacing: 3px;
+    opacity: 50px;
 }
 .emily{
     height: 80px;
@@ -118,23 +127,100 @@
     background-image: url("/image/image-gallery-milkbottles.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 80vh;
+    min-height: 55vh;
 }
 .lemon{
     background-image: url("/image/image-gallery-orange.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 80vh;
+    min-height: 55vh;
 }
-.corn{
+.cone{
     background-image: url("/image/image-gallery-cone.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 80vh;
+    min-height: 55vh;
+    width: 100%;
 }
 .icebox{
     background-image: url("/image/image-gallery-sugarcubes.jpg");
     background-position: center;
     background-size: cover;
-    min-height: 80vh;
+    min-height: 55vh;
 }
+.footer{
+    background-color: rgb(142, 216, 182);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.about{
+    font-weight: 500;
+    color: rgb(39, 101, 69);
+}
+.service{
+    font-weight: 500;
+    color: rgb(39, 101, 69);
+}
+.project{
+    font-weight: 500;
+    color: rgb(39, 101, 69);
+}
+.emihead{
+    font-family: 'Fraunces', serif;
+}
+.emitxt{
+    font-family: 'Barlow', sans-serif;
+    color: rgb(84, 82, 82);
+    font-weight: 300;
+}
+.thomhead{
+    font-family: 'Fraunces', serif;
+}
+.thomtxt{
+    font-family: 'Barlow', sans-serif;
+    color:rgb(84, 82, 82);
+
+}
+.jenhead{
+    font-family: 'Fraunces', serif;
+}
+.jentxt{
+    font-family: 'Barlow', sans-serif;
+    color: rgb(84, 82, 82);
+}
+.market{
+    color: rgb(144, 141, 141);
+    letter-spacing: -1px;
+    font-family: 'Barlow', sans-serif;
+}
+.cheif{
+    color: rgb(144, 141, 141);
+    letter-spacing: -1px;
+    font-family: 'Barlow', sans-serif;
+}
+.busi{
+    color: rgb(144, 141, 141);
+    letter-spacing: -1px;
+    font-family: 'Barlow', sans-serif;
+}
+.mid{
+    padding-bottom: 100px;
+}
+.rainbow{
+    background-color: #f3f5f6;
+    border-radius: 4px;  
+    color: #fff;
+    cursor: pointer;
+    padding: 8px 16px;
+    
+}
+  
+.rainbow-1:hover{
+    background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+    animation:slidebg 5s linear infinite;
+ }
+.rainbow-2:hover{
+    background-image: linear-gradient(90deg, #00C0FF 0%, #FFCF00 49%, #FC4F4F 80%, #00C0FF 100%);
+    animation:slidebg 5s linear infinite;
+}
+ 
