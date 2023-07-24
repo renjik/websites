@@ -1,0 +1,241 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.gallery{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+}
+.milkbottles{
+    width: 100%;
+    
+}
+.oranges{
+    width: 100%;
+}
+.cone{
+    width: 100%;
+}
+.sugar{
+    width: 100%;
+}
+.trans{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+.egg{
+    background-image: url("/image/image-transform.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+.stand{
+    background-image: url("/image/image-stand-out.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+}
+.standout{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.head2{
+    font-family: "Fraunces", sans-serif;
+}
+
+
+  
+
+  
+  .head1{
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+  }
+.txt1{
+    font-family: 'Barlow', sans-serif;
+}
+.txt2{
+    font-family: 'Barlow', sans-serif;
+}
+.cherry{
+    background-image: url("/image/image-graphic-design.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.orange{
+    background-image: url("/image/image-photography.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+}
+.head2{
+    padding-top: 300px;
+}
+.head3{
+    font-family: 'Fraunces', serif;
+    padding-top: 300px;
+}
+
+.testimonials{
+    font-family: 'Fraunces', serif;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 40px;
+    color: gray;
+    letter-spacing: 3px;
+    opacity: 50px;
+}
+.emily{
+    height: 80px;
+    border-radius: 50%;
+}
+.thommas{
+    height: 80px;
+    border-radius: 50%;
+}
+.jenny{
+    height: 80px;
+    border-radius: 50%;
+}
+.emihead{
+    font-family: 'Fraunces', serif;
+}
+.emitxt{
+    font-family: 'Barlow', sans-serif;
+    color: rgb(84, 82, 82);
+    font-weight: 300;
+}
+.thomhead{
+    font-family: 'Fraunces', serif;
+}
+.thomtxt{
+    font-family: 'Barlow', sans-serif;
+    color:rgb(84, 82, 82);
+
+}
+.jenhead{
+    font-family: 'Fraunces', serif;
+}
+.jentxt{
+    font-family: 'Barlow', sans-serif;
+    color: rgb(84, 82, 82);
+}
+.market{
+    color: rgb(144, 141, 141);
+    letter-spacing: -1px;
+    font-family: 'Barlow', sans-serif;
+}
+.cheif{
+    color: rgb(144, 141, 141);
+    letter-spacing: -1px;
+    font-family: 'Barlow', sans-serif;
+}
+.busi{
+    color: rgb(144, 141, 141);
+    letter-spacing: -1px;
+    font-family: 'Barlow', sans-serif;
+}
+.mid{
+    padding-bottom: 100px;
+}
+
+/* gallery */
+.gallery>[class*='col-']{
+        padding-left: 0;
+        padding-right: 0;
+}
+.bottle{
+    width: 100%;
+}
+
+.sugarcube{
+    width: 100%;
+}
+.cone{
+    width: 100%;
+}
+.orange1{
+    width: 100%;
+    
+}
+/* footer */
+.footer{
+    background-color: rgb(142, 216, 182);
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.about{
+    font-weight: 500;
+    color: rgb(39, 101, 69);
+}
+.service{
+    font-weight: 500;
+    color: rgb(39, 101, 69);
+}
+.project{
+    font-weight: 500;
+    color: rgb(39, 101, 69);
+}
+
+.header{
+    background-image: url("/image/image-header.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+.navbar-nav{
+    text-align: right;
+  }
+  .navbar .navbar-nav .nav-link {
+      color: #ffffff;
+      font-size: 1.3em;
+      padding-right: 2em;
+      font-family: 'Barlow', sans-serif;
+  }
+  .navbar .navbar-nav .nav-link:hover{
+      color: rgb(255, 187, 0);
+  }
+.head{
+    color: white;
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    font-weight: 600;
+    font-size: 18px;
+    padding-top: 60px;
+    
+}
+.navbar-brand{
+    font-family: 'Barlow', sans-serif;
+}
+
+.arrow{
+    margin-top: 40px;
+    width: 20px;
+}
+.pillbutton{
+    background-color:white;
+  color: black;
+  padding: px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 0px 0px;
+  cursor: pointer;
+  border-radius: 18px;
+}
+.contact{
+    font-family: 'Fraunces', sans-seri;
+}
