@@ -26,9 +26,11 @@ img {
     width: 100%;
 }
 .trans{
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 
 }
 .egg{
@@ -44,27 +46,34 @@ img {
     height: 80vh;
 }
 .standout{
-    text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    /* text-align: center; */
+    padding-top: 200px;
+    padding-bottom: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
-.head2{
-    font-family: "Fraunces", sans-serif;
-}
 
-
-  
-
-  
-  .head1{
+.head1{
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
     font-family: 'Fraunces', serif;
     font-weight: 900;
   }
 .txt1{
     font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+    color: rgb(154, 152, 152);
 }
 .txt2{
     font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+    color: rgb(154, 152, 152);
+    
+}
+.txt3{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    color: rgb(39, 67, 39);
 }
 .cherry{
     background-image: url("/image/image-graphic-design.jpg");
@@ -81,11 +90,14 @@ img {
     width: 100%;
 }
 .head2{
-    padding-top: 300px;
+    padding-top: 400px;
+    color: rgb(39, 67, 39); ;
+    font-family: "Fraunces", sans-serif;
 }
 .head3{
     font-family: 'Fraunces', serif;
-    padding-top: 300px;
+    padding-top: 400px;
+    color: rgb(42, 87, 42); ;
 }
 
 .testimonials{
@@ -114,29 +126,32 @@ img {
 }
 .emitxt{
     font-family: 'Barlow', sans-serif;
-    color: rgb(84, 82, 82);
-    font-weight: 300;
+    color: rgb(154, 152, 152);
+    font-weight: 600;
 }
 .thomhead{
     font-family: 'Fraunces', serif;
 }
 .thomtxt{
     font-family: 'Barlow', sans-serif;
-    color:rgb(84, 82, 82);
-
+    color: rgb(154, 152, 152);
+    font-weight: 600;
 }
 .jenhead{
     font-family: 'Fraunces', serif;
 }
 .jentxt{
     font-family: 'Barlow', sans-serif;
-    color: rgb(84, 82, 82);
+    color: rgb(154, 152, 152);
+    font-weight: 600;
 }
 .market{
     color: rgb(144, 141, 141);
     letter-spacing: -1px;
     font-family: 'Barlow', sans-serif;
+    font-weight: 400;
 }
+
 .cheif{
     color: rgb(144, 141, 141);
     letter-spacing: -1px;
@@ -156,6 +171,7 @@ img {
         padding-left: 0;
         padding-right: 0;
 }
+
 .bottle{
     width: 100%;
 }
@@ -170,6 +186,11 @@ img {
     width: 100%;
     
 }
+/* nopadding */
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+ }
 /* footer */
 .footer{
     background-color: rgb(142, 216, 182);
@@ -201,13 +222,32 @@ img {
   }
   .navbar .navbar-nav .nav-link {
       color: #ffffff;
-      font-size: 1.3em;
+      font-size: 1.0em;
       padding-right: 2em;
-      font-family: 'Barlow', sans-serif;
+      font-weight: 500;
+      
   }
-  .navbar .navbar-nav .nav-link:hover{
+  .button {
+    background-color:white;
+    border: none;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 1px 1px;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: 'Fraunces', serif;
+    font-size: small;
+  }
+  
+  .button:hover {
+    background-color: rgb(108, 196, 247);
+  }
+  /* .navbar .navbar-nav .nav-link:hover{
       color: rgb(255, 187, 0);
-  }
+  } */
 .head{
     color: white;
     text-align: center;
@@ -219,23 +259,40 @@ img {
 }
 .navbar-brand{
     font-family: 'Barlow', sans-serif;
+    font-weight: 700;
 }
 
 .arrow{
     margin-top: 40px;
     width: 20px;
 }
-.pillbutton{
-    background-color:white;
-  color: black;
-  padding: px 30px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  margin: 0px 0px;
-  cursor: pointer;
-  border-radius: 18px;
-}
+
 .contact{
-    font-family: 'Fraunces', sans-seri;
+    font-family: 'Fraunces', sans-serif;
+}
+.hover-2 {
+    background: 
+      linear-gradient(#ed2906 0 0) no-repeat
+       calc(200% - var(--p,0%)) 100% / 200% var(--p,.08em);
+    transition: .3s var(--t,0s), background-position .3s calc(.3s - var(--t,0s));
+    text-decoration: none;
+    color: black;
+    
+  }
+  .hover-2:hover {
+    --p: 90%;
+    --t: .3s;
+    color: #000000;
+    
+  }
+.learn{
+    font-weight:bold;
+    font-family: 'Fraunces', sans-serif;
+}
+ 
+.learn1{
+    font-family: 'Fraunces', serif;
+}
+.anchor{
+    font-family: 'Fraunces', sans-serif;
 }

@@ -1,4 +1,4 @@
-.header{
+/* .header{
     background-image: url("/image/image-header.jpg");
     background-size: cover;
     background-position: center;
@@ -51,7 +51,7 @@
 /* .col01{
     padding-top: 300px;
 } */
-.egg{
+/* .egg{
     background-image: url("/image/image-transform.jpg");
     background-position: center;
     background-size: cover;
@@ -371,5 +371,21 @@ a .liquid1 {
   }
   .transform{
     text-align: center;
+  }  */
+
+
+
+  .hover-2 {
+    background: 
+      linear-gradient(#1095c1 0 0) no-repeat
+       calc(200% - var(--p,0%)) 100% / 200% var(--p,.08em);
+    transition: .3s var(--t,0s), background-position .3s calc(.3s - var(--t,0s));
+    text-decoration: none;
+    color: black;
+  }
+  .hover-2:hover {
+    --p: 50%;
+    --t: .3s;
+    color: #fff;
   }
  
