@@ -81,6 +81,10 @@ img {
     background-size: cover;
     height: 80vh;
     width: 100%;
+    padding-top: 400px;
+    padding-bottom: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .orange{
     background-image: url("/image/image-photography.jpg");
@@ -88,15 +92,18 @@ img {
     background-size: cover;
     height: 80vh;
     width: 100%;
+    padding-top: 400px;
+    padding-bottom: 200px;
+    padding-left: 200px;
+    padding-right: 200px;
 }
 .head2{
-    padding-top: 400px;
+   
     color: rgb(39, 67, 39); ;
     font-family: "Fraunces", sans-serif;
 }
 .head3{
     font-family: 'Fraunces', serif;
-    padding-top: 400px;
     color: rgb(42, 87, 42); ;
 }
 
@@ -272,8 +279,8 @@ img {
 }
 .hover-2 {
     background: 
-      linear-gradient(#ed2906 0 0) no-repeat
-       calc(200% - var(--p,0%)) 100% / 200% var(--p,.08em);
+      linear-gradient(#e65036 0 0) no-repeat
+       calc(200% - var(--p,100%)) 100% / 200% var(--p,.50em);
     transition: .3s var(--t,0s), background-position .3s calc(.3s - var(--t,0s));
     text-decoration: none;
     color: black;
@@ -281,7 +288,7 @@ img {
   }
   .hover-2:hover {
     --p: 90%;
-    --t: .3s;
+    --t: .2s;
     color: #000000;
     
   }

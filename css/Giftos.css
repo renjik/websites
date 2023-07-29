@@ -1,0 +1,373 @@
+.nav-item{
+    padding-right: 5rem;
+}
+/* .navbar{
+    background: #efe1d7;
+    border-radius:20px;
+} */
+.giftos{
+    font-weight: 700;
+}
+.head1{
+    background: #efe1d7;
+    border-radius:20px;
+}
+.innerimg{
+    background: #f3aac1;
+    border-bottom-right-radius:20px;
+    border-bottom-left-radius:20px;
+}
+
+.example_c{
+    color: #ffffff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #e7658e;
+    padding: 8px 20px;
+   
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+}
+.example_c:hover {
+    color: #ec3d66 !important;
+    background:  #f3aac1;
+    border-color:  #494949!important;
+    border: 1px solid #ec3d66 !important;
+    transition: all 0.4s ease 0s;
+}
+.slidertxt{
+    padding-top: 15%;
+}
+
+.welcome{
+    font-size: 6vh;
+    font-weight: bolder;
+}
+/* .carousel-control-prev{
+    padding-top: 30%;
+}
+.carousel-control-next{
+    padding-top:30%;
+    padding-right: 12%;
+} */
+
+
+/* .qwerty{
+    height: 600px;
+} */
+
+.latestproducts{
+    font-weight: bolder;
+    margin-top: 6%;
+}
+.products{
+    margin-left:15%;
+    margin-right: 15%;
+    margin-top: 4%;
+
+}
+.ring{
+    /* position: relative; */
+    width:50%;
+}
+.colring{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.ring1{
+    font-weight: 600;
+    text-align: left;
+    
+}
+.price1{
+    text-align: right;
+    font-weight: 600;
+}
+/* .container{
+    position: relative;
+} */
+/* .new1{
+    position: absolute;
+    width: 5%;
+    height: 18%;
+    background-color: rgb(255, 255, 255);
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100%;
+    top: 12%;
+    left: 4.5%;
+    transform: translate(-50%,-50%);
+} */
+.colwatch{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.watch{
+    /* position: relative; */
+    width:36.5%;
+}
+.watch1{
+    font-weight: 600;
+    text-align: left;
+}
+.price2{
+    text-align: right;
+    font-weight: 600;
+}
+.colteddy{
+    background: #ddd7d7;
+    border: white 15px solid;
+    
+}
+.teddy{
+    /* position: relative; */
+    width:63%;
+}
+.teddy1{
+    font-weight: 600;
+    text-align: left;
+}
+.price3{
+    text-align: right;
+    font-weight: 600;
+}
+.colflowers{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.flowers{
+    /* position: relative; */
+    width:75%;
+}
+.flowers1{
+    font-weight: 600;
+    text-align: left;
+}
+.price4{
+    text-align: right;
+    font-weight: 600;
+}
+
+
+
+.products1{
+    margin-left:15%;
+    margin-right: 15%;
+    margin-top: 0.2%;
+
+}
+
+.colteddybear{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.teddybear{
+    width: 50%;
+}
+.teddybear1{
+    font-weight: 600;
+    text-align: left;
+}
+.price5{
+    text-align: right;
+    font-weight: 600;
+}
+.colflowersbou{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.flowersbou{
+    width: 47%;
+}
+.flowersbou1{
+    font-weight: 600;
+    text-align: left;
+}
+.price6{
+    text-align: right;
+    font-weight: 600;
+}
+.colwatchw{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.watchw{
+    width: 41%;
+}
+.watchw1{
+    font-weight: 600;
+    text-align: left;
+}
+.price7{
+    text-align: right;
+    font-weight: 600;
+}
+.colringe{
+    background: #ddd7d7;
+    border: white 15px solid;
+}
+.ringe{
+    width: 37%;
+}
+.ringe1{
+    font-weight: 600;
+    text-align: left;
+}
+.price8{
+    text-align: right;
+    font-weight: 600;
+}
+.example_c1{
+    color: #ffffff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #e7658e;
+    padding: 10px 25px;
+   
+    border-radius: 6px;
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+}
+.example_c1:hover {
+    color: #ec3d66 !important;
+    background:  #ffffff;
+    border-color:  #494949!important;
+    border: 1px solid #ec3d66 !important;
+    transition: all 0.4s ease 0s;
+}
+.secondblue{
+    background: skyblue;
+    border-radius: 20px;
+  
+}
+.bestsaving{
+    font-size: 4vh;
+    font-weight: bolder;
+    padding-top: 23%;
+    
+}
+.example_cbuy{
+    color: #ffffff !important;
+    /* text-transform: uppercase; */
+    text-decoration: none;
+    background: #3694e1;
+    padding: 10px 50px;
+   
+    /* border-radius: 6px; */
+    /* display: inline-block; */
+    transition: all 0.4s ease 0s;
+}
+.example_cbuy:hover {
+    color: #3da3ec!important;
+    background:  #aaeef3;
+    border-color:  #494949!important;
+    border: 1px solid #3da3ec !important;
+    transition: all 0.4s ease 0s;
+}
+.example_csee{
+    color: #000000 !important;
+    /* text-transform: uppercase; */
+    text-decoration: none;
+    background: #ffffff;
+    padding: 10px 50px;
+   
+    /* border-radius: 6px; */
+    /* display: inline-block; */
+    transition: all 0.4s ease 0s;
+}
+.example_csee:hover {
+    color: #ffffff !important;
+    background:  #aaeef3;
+    border-color:  #494949!important;
+    border: 1px solid  #ffffff !important;
+    transition: all 0.4s ease 0s;
+}
+.saving{
+    width: 95%;
+}
+.whyushop{
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-weight: 700;
+    font-size: 4vh;
+}
+.shipped{
+    width: 15%;
+}
+.colship{
+    background: #f0ecec;
+    padding-bottom: 2%;
+}
+.fast{
+    font-size:x-large;
+    font-weight: 500;
+}
+.fasttxt{
+    font-size: large;
+}
+.free{
+    width: 15%;
+  
+}
+.colfree{
+    background: #f0ecec;
+    padding-bottom: 2%;
+}
+.best{
+    width: 15%;
+}
+.colbest{
+    background: #f0ecec;
+    padding-bottom: 2%;
+}
+.button_cont{
+    display: inline;
+}
+.thirdviolet{
+    background: rgb(104, 25, 130);
+    border-radius: 20px;
+}
+.gift{
+    width: 80%;
+}
+
+
+.example_cbuy1{
+    color: #000000 !important;
+    /* text-transform: uppercase; */
+    text-decoration: none;
+    background: #ffffff;
+    padding: 10px 50px;
+   
+    /* border-radius: 6px; */
+    /* display: inline-block; */
+    transition: all 0.4s ease 0s;
+}
+.example_cbuy1:hover {
+    color: #3da3ec!important;
+    background:  #aaeef3;
+    border-color:  #494949!important;
+    border: 1px solid #3da3ec !important;
+    transition: all 0.4s ease 0s;
+}
+.example_csee1{
+    color: #000000 !important;
+    /* text-transform: uppercase; */
+    text-decoration: none;
+    background: #ffffff;
+    padding: 10px 50px;
+   
+    /* border-radius: 6px; */
+    /* display: inline-block; */
+    transition: all 0.4s ease 0s;
+}
+.example_csee2:hover {
+    color: #3da3ec!important;
+    background:  #aaeef3;
+    border-color:  #494949!important;
+    border: 1px solid #3da3ec !important;
+    transition: all 0.4s ease 0s;
+}
