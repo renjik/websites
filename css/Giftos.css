@@ -246,7 +246,7 @@
 .bestsaving{
     font-size: 4vh;
     font-weight: bolder;
-    padding-top: 23%;
+    padding-top: 30%;
     
 }
 .example_cbuy{
@@ -329,9 +329,10 @@
 .thirdviolet{
     background: rgb(104, 25, 130);
     border-radius: 20px;
+    
 }
 .gift{
-    width: 80%;
+    width: 100%;
 }
 
 
@@ -347,27 +348,65 @@
     transition: all 0.4s ease 0s;
 }
 .example_cbuy1:hover {
-    color: #3da3ec!important;
-    background:  #aaeef3;
+    color: #ffffff!important;
+    background:  rgb(104, 25, 130);
     border-color:  #494949!important;
-    border: 1px solid #3da3ec !important;
+    border: 1px solid #ffffff !important;
     transition: all 0.4s ease 0s;
 }
 .example_csee1{
-    color: #000000 !important;
+    color: #ffffff !important;
     /* text-transform: uppercase; */
     text-decoration: none;
-    background: #ffffff;
+    background:  rgb(124, 55, 146);
     padding: 10px 50px;
    
     /* border-radius: 6px; */
     /* display: inline-block; */
     transition: all 0.4s ease 0s;
 }
-.example_csee2:hover {
-    color: #3da3ec!important;
-    background:  #aaeef3;
-    border-color:  #494949!important;
-    border: 1px solid #3da3ec !important;
+.example_csee1:hover {
+    color: #a0a3a5!important;
+    background: rgb(152, 79, 176);
+    border-color:  #cfcece!important;
+    border: 1px solid #949698 !important;
     transition: all 0.4s ease 0s;
 }
+.CONTACT{
+    font-weight: 700;
+    font-size: 3.5vh;
+    padding-left: 12%;
+    padding-top: 2%;
+}
+.form-control{
+    border:thin black solid;
+    border-radius: 0%;
+    padding: 5%;
+}
+.example_csend{
+    color: #ffffff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #e7658e;
+    padding: 10px 35px;
+   
+    /* border-radius: 6px; */
+    display: inline-block;
+    transition: all 0.4s ease 0s;
+}
+.example_csend:hover {
+    color: #ec3d66 !important;
+    background:  #ffffff;
+    border-color:  #494949!important;
+    border: 1px solid #ec3d66 !important;
+    transition: all 0.4s ease 0s;
+}
+
+.testimonial{
+    font-weight: 700;
+    font-size: 3.5vh;
+    padding-top: 2.5%;
+    padding-bottom: 2%;
+}
+
+     
