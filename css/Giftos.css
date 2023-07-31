@@ -408,5 +408,39 @@
     padding-top: 2.5%;
     padding-bottom: 2%;
 }
+.dark{
+    background: #2a2828;
+}
+.fb{
+    width: 1%;
+}
 
-     
+.twit{
+    width: 1.8%;
+}
+.insta{
+    width: 1.7%;
+}
+.utube{
+    width: 2.3%;
+}
+.location{
+    width: 5%;
+}
+.telephone{
+    width: 5%;
+}
+.emailid{
+    width: 5%;
+}
+.dark2{
+    margin-top: 4%;
+    margin-left: 5%;
+    margin-bottom: 4%;
+}
+.renjik{
+    border-top: #a0a3a5 2px solid;
+    margin-left: 15%;
+    margin-right: 15%;
+    
+}
