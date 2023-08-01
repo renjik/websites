@@ -241,13 +241,27 @@
 .secondblue{
     background: skyblue;
     border-radius: 20px;
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
   
 }
 .bestsaving{
     font-size: 4vh;
     font-weight: bolder;
-    padding-top: 30%;
+    padding-top: 20%;
     
+}
+.gifthead{
+    font-size: 4vh;
+    font-weight: bolder;
+    padding-top: 30%;
+}
+.buttonblue{
+    padding-bottom: 8%;
+}
+.button_violet{
+    padding-bottom: 8%;
 }
 .example_cbuy{
     color: #ffffff !important;
@@ -255,6 +269,7 @@
     text-decoration: none;
     background: #3694e1;
     padding: 10px 50px;
+
    
     /* border-radius: 6px; */
     /* display: inline-block; */
@@ -286,7 +301,7 @@
     transition: all 0.4s ease 0s;
 }
 .saving{
-    width: 95%;
+    width: 100%;
 }
 .whyushop{
     margin-top: 5%;
@@ -381,7 +396,7 @@
 .form-control{
     border:thin black solid;
     border-radius: 0%;
-    padding: 5%;
+    /* padding: 5%; */
 }
 .example_csend{
     color: #ffffff !important;
@@ -434,13 +449,15 @@
     width: 5%;
 }
 .dark2{
-    margin-top: 4%;
-    margin-left: 5%;
-    margin-bottom: 4%;
+    margin-top: 5%;
+    padding-left: 18%;
+    padding-right: 18%;
 }
 .renjik{
+   
     border-top: #a0a3a5 2px solid;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 20%;
     
 }
