@@ -1,0 +1,12 @@
+.herobg{
+    position: absolute;
+    background-image: url("/image/brainwave/hero-bg.png");
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    padding: 26%
+    
+}
+.brainwave{
+    width: 10%;
+}
