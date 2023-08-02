@@ -1,12 +1,41 @@
-.herobg{
+/* .herobg{
     position: absolute;
     background-image: url("/image/brainwave/hero-bg.png");
     background-position: center;
     background-size: cover;
     width: 100%;
-    padding: 26%
+    height: 100vh;
     
 }
-.brainwave{
-    width: 10%;
+
+.colbrainwave img {
+    float: left;
+    width: 5%;
+    height: auto;
+   
+  }
+  
+  .brainwave {
+    position: absolute;
+    /* top: 14px;
+    left: 10px; */
+    /* font-weight: bold; */
+    /* color: rgb(29, 115, 169); */
+  /* } */
+
+  /* .call{ */
+    /* text-align: end; */
+  /* } */
+
+  .navheader{
+    background: #45c485;
+  }
+.login{
+    text-decoration: none;
+}
+.anchor{
+    padding-left: 10%;
+}
+.anchor li{
+    padding-right: 2em;
 }
