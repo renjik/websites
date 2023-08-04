@@ -29,13 +29,44 @@
 
   .navheader{
     background: #45c485;
+  
   }
 .login{
     text-decoration: none;
+    
 }
-.anchor{
-    padding-left: 10%;
-}
+
 .anchor li{
-    padding-right: 2em;
+    padding-right: 2em; 
+    
+}
+
+.anchor1{
+  padding-left: 40%;
+}
+.secondrow{
+  background: white;
+}
+.aboutimg{
+  width: 100%;
+  height: auto;
+  
+}
+.design{
+  padding-right: 20%;
+  padding-top: 18%;
+  text-align: left;
+}
+.about{
+  font-weight: 700;
+}
+.aboutpara{
+  font-size: medium;
+}
+.btnmore{
+  background: red;
+  border-radius: 5px;
+}
+.whatwedo{
+  font-weight: 700;
 }
