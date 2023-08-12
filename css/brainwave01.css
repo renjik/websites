@@ -1,21 +1,106 @@
-.whatwedo{
-    font-weight: 700;
-  }
-  .ideapng{
+/* .whatwedo{ */
+    /* font-weight: 700; */
+  /* } */
+  /* .ideapng{
     width: 20%;
     height: auto;
 
-  }
-  .colidea{
+  } */
+  /* .colidea{
     background: red;
+    border-radius: 10px;
     
   }
   .colcontroller{
     background: rgb(48, 214, 145);
+    border-radius: 10px;
   }
   .colmoniter{
     background: red;
+    border-radius: 10px;
   }
   .colfaster{
     background: rgb(48, 214, 145);
+    border-radius: 10px;
   }
+  .whatwedo{
+      text-decoration: none;
+    
+  }
+  .whatwedo {
+    background:
+      linear-gradient(
+        to right,
+        rgba(100, 200, 200, 1),
+        rgba(100, 200, 200, 1)
+      ),
+      linear-gradient(
+        to right,
+        rgba(255, 0, 0, 1),
+        rgba(255, 0, 180, 1),
+        rgba(0, 100, 200, 1)
+    );
+  }
+  .whatwedo{
+    background:
+      linear-gradient(
+        to right,
+        rgba(100, 200, 200, 1),
+        rgba(100, 200, 200, 1)
+      ),
+      linear-gradient(
+        to right,
+        rgba(255, 0, 0, 1),
+        rgba(255, 0, 180, 1),
+        rgba(0, 100, 200, 1)
+    );
+    background-size: 100% 10px, 0 6px;
+  }
+  .whatwedo {
+    background:
+      linear-gradient(
+        to right,
+        rgba(100, 200, 200, 1),
+        rgba(100, 200, 200, 1)
+      ),
+      linear-gradient(
+        to right,
+        rgba(255, 0, 0, 1),
+        rgba(255, 0, 180, 1),
+        rgba(0, 100, 200, 1)
+    );
+    background-size: 100% 3px, 0 3px;
+    background-position: 100% 100%, 0 100%;
+    background-repeat: no-repeat;
+  }
+  .whatwedo:hover {
+    background-size: 0 5px, 100% 4px;
+  }
+  .whatwedo {
+    background:
+      linear-gradient(
+        to right,
+        rgba(100, 200, 200, 1),
+        rgba(100, 200, 200, 1)
+      ),
+      linear-gradient(
+        to right,
+        rgba(255, 0, 0, 1),
+        rgba(255, 0, 180, 1),
+        rgba(0, 100, 200, 1)
+    );
+    background-size: 100% 3px, 0 3px;
+    background-position: 100% 100%, 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 400ms;
+  } */
+
+.Skillbg{
+  background-image: url("/image/brainwave/skill-bg.jpg");
+  width: 100%;
+  height: auto;
+}
+.ourskills{
+  padding-right: 25%;
+  font-weight: 700;
+}
